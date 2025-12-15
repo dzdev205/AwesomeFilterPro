@@ -6,10 +6,11 @@ pymongo[srv]==3.12.3
 motor==2.5.1
 marshmallow==3.14.1
 umongo==3.0.1
-cinemagoer
 requests
-bs4
+beautifulsoup4
 heroku3
 pynewtonmath
 pytz
 aiohttp
+lxml~=5.4.0
+sqlalchemy~=2.0.41
